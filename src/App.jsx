@@ -3,7 +3,7 @@ import { useCarouselEffects } from './hooks/useCarouselEffects';
 
 const links = [
   { label: 'Article', href: 'https://tympanus.net/codrops/?p=93330' },
-  { label: 'Code', href: 'https://github.com/SAHIBAKHATOON/3DCarousel' },
+  { label: 'Code', href: 'https://github.com/SAHIBAKHATOON/framer_motion' },
   { label: 'All demos', href: 'https://tympanus.net/codrops/demos/' },
 ];
 
